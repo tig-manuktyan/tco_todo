@@ -1,5 +1,5 @@
 {
   "serverPort": 5000,
-  "dbUrl": "mongodb+srv://root:root@cluster0.kc7wcb0.mongodb.net/?retryWrites=true&w=majority",
+  "dbUrl": "mongodb://mongo:1wQVwJ9X3CaXGRbC6i7S@containers-us-west-16.railway.app:5899",
   "secretKey": "mern-secket-key"
 }
